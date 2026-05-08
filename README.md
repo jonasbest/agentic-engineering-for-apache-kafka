@@ -4,7 +4,7 @@
 [![Skills compatible](https://img.shields.io/badge/skills-Anthropic%20open%20standard-7C3AED)](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf)
 [![Lenses MCP](https://img.shields.io/badge/Lenses%20MCP-required%20for%20Kafka%20skills-1ABC9C)](https://github.com/lensesio/lenses-mcp)
 
-A drop-in collection of agent skills, subagents and editor configuration that turns Claude Code and Cursor into a Kafka-aware engineering assistant. Audit topic configurations, diagnose consumer lag, review schema changes, catch security misconfigurations and ship code, all from a single prompt instead of 15 minutes of manual investigation.
+A drop-in collection of agent skills, subagents and editor configuration that turns your AI Coding Agent like Claude Code, Codex, Bob, Kiro and Cursor into a Kafka-aware engineering assistant. Audit topic configurations, diagnose consumer lag, review schema changes, catch security misconfigurations and ship code, all from a single prompt instead of 15 minutes of manual investigation.
 
 Maintained by [Lenses.io](https://lenses.io), the team that pioneered the developer experience for Apache Kafka. Agentic coding has shifted what that means, and making sure an AI agent actually knows how to handle Kafka is now part of the job.
 
